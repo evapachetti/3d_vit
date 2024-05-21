@@ -22,7 +22,11 @@ The ProstateX-YYYY folder refers to single patient acquisition, while the four s
 
 ### 1. Train 3D ViTs according to 5-fold cross-validation
 ```
-python train_cv.py
+python train.py
+```
+Test each fold on the hold-out test set:
+```
+python test.py
 ```
 
 ## Citation
