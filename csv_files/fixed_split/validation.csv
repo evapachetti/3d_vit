@@ -1,0 +1,10 @@
+Patient,Label,Zone,GG,z0,Lesion
+ProstateX-0028,LG,PZ,2,9,1
+ProstateX-0041,LG,PZ,2,7,1
+ProstateX-0124,LG,PZ,1,13,1
+ProstateX-0046,HG,PZ,3,12,1
+ProstateX-0142,LG,AS,1,14,3
+ProstateX-0145,LG,AS,1,13,1
+ProstateX-0131,HG,AS,5,11,1
+ProstateX-0136,LG,AS,1,12,1
+ProstateX-0169,HG,TZ,3,11,1
