@@ -2,6 +2,8 @@
 
 Official code for [**On the effectiveness of 3D vision transformers for the prediction of prostate cancer aggressiveness**](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_27) based on [Pytorch reimplementation](https://github.com/jeonsworld/ViT-pytorch) by [jeonsworld](https://github.com/jeonsworld) of [Google's repository for the ViT model](https://github.com/google-research/vision_transformer) [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) by Alexey Dosovitskiy. 
 
+![3d_vit](./img/3d_vit.png)
+
 ## Dataset
 We utilized the [Prostate-X 2](https://www.cancerimagingarchive.net/collection/prostatex/) dataset for our experiments. To see pre-processing details, please refer to our [paper](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_27).
 
